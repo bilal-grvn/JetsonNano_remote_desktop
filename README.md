@@ -1,16 +1,15 @@
-# JetsonNano_remote_desktop
-
 <h4 align="left">
 Yazar : Bilal GÜREVİN👋👋
 </h4>
 
-## `Jetson Nano`'ya farklı bir PC de uzak masaüstü bağlantısını VNC server üzerinden gerçekleştirebileceğiniz temel işlemleri aşağıda bulabilirsiniz.
+
+## `Jetson Nano`'ya farklı bir PC den uzak masaüstü bağlantısını VNC server üzerinden gerçekleştirebileceğiniz temel işlemleri aşağıda bulabilirsiniz.
 
 ***************************************************************
 ***************************************************************
 
 
-# 🚀 VINO KURULUMU
+## 🚀 VINO KURULUMU
 
 Aşağıdaki satırı jetson nano terminal ekranında yazıyoruz.
 
@@ -43,10 +42,7 @@ Bundan sonra Jetson Nano da bağlantıya izin vermek için bir ekran çıkacakt�
 </p>
 
 
-
-
-
-# 🚀 NOT
+## 🚀 NOT
 PC tarafında bazen `encrypted` ile ilgili bir hata verebilir.
 
 Bu yüzden Jetson Nano terminalinde aşağıdaki satırı yazmamız sorunu çözebilir.
